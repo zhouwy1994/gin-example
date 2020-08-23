@@ -1,2 +1,2 @@
 # gin-example
-an gin example
+An example of gin
